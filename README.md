@@ -70,13 +70,13 @@ The main objective is to perform data cleaning, exploratory data analysis, text 
 
 This visualization represents the percentage distribution of restaurants across different categories, making it easier to compare their proportions.
 
-![Restaurant Category Distribution](category_100_percentage.png)
+![Category Distribution]("visual/category by 100 precentage.png")
 
 ### 2. Most Frequently Used Words in Customer Reviews
 
 This visualization highlights the most frequently used words in customer reviews and helps identify common discussion topics.
 
-![Most Frequently Used Words](visuals/top_words.png)
+![Most Frequently Used Words](visual/total_reviews.png)
 
 ### 3. North Indian Restaurant Distribution Across Bangalore
 
