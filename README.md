@@ -118,11 +118,9 @@ By analyzing restaurant categories, customer reviews, and geographical distribut
 ```text
 zomato-data-analysis-python/
 │
-├── visuals/
-│   ├── category_100_percentage.png
-│   ├── top_words.png
-│   └── north_indian_restaurant_distribution.png
-│
+├── category by 100 precentage.png
+├── total_reviews.png
+├── north_indian_restaurant_distribution.png
 ├── zomato_analysis.py
 └── README.md
 ```
