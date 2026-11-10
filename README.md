@@ -70,13 +70,14 @@ The main objective is to perform data cleaning, exploratory data analysis, text 
 
 This visualization represents the percentage distribution of restaurants across different categories, making it easier to compare their proportions.
 
-![Category Distribution](visuals/category%20by%20100%20precentage.png)
+![Category Distribution](category%20by%20100%20precentage.png)
+
 
 ### 2. Most Frequently Used Words in Customer Reviews
 
 This visualization highlights the most frequently used words in customer reviews and helps identify common discussion topics.
 
-![Most Used Words](visuals/total_reviews.png)
+![Most Used Words](total_reviews.png)
 
 ### 3. North Indian Restaurant Distribution Across Bangalore
 
@@ -87,7 +88,7 @@ This geographical bubble scatter plot represents the distribution of North India
 - **Bubble size:** Number of North Indian restaurants
 - Larger bubbles indicate locations with more restaurants.
 
-![North Indian Restaurant Distribution](visuals/north_indian_restaurant_distribution.png)
+![North Indian Restaurant Distribution](north_indian_restaurant_distribution.png)
 
 ## Key Business Insights
 
