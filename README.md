@@ -70,7 +70,7 @@ The main objective is to perform data cleaning, exploratory data analysis, text 
 
 This visualization represents the percentage distribution of restaurants across different categories, making it easier to compare their proportions.
 
-![Restaurant Category Distribution](visuals/category_100_percentage.png)
+![Restaurant Category Distribution](category_100_percentage.png)
 
 ### 2. Most Frequently Used Words in Customer Reviews
 
